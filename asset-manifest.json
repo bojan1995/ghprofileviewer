@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ghprofileviewer/static/css/main.079e2699.css",
+    "main.js": "/ghprofileviewer/static/js/main.d718cb35.js",
+    "static/js/787.b060f82a.chunk.js": "/ghprofileviewer/static/js/787.b060f82a.chunk.js",
+    "index.html": "/ghprofileviewer/index.html",
+    "main.079e2699.css.map": "/ghprofileviewer/static/css/main.079e2699.css.map",
+    "main.d718cb35.js.map": "/ghprofileviewer/static/js/main.d718cb35.js.map",
+    "787.b060f82a.chunk.js.map": "/ghprofileviewer/static/js/787.b060f82a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.079e2699.css",
+    "static/js/main.d718cb35.js"
+  ]
+}
