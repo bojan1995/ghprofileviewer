@@ -52,7 +52,11 @@ This will start the application locally. You can access it by visiting [http://l
 5. To search for another user, click the "Back" button or clear the search input field.
 
 ## Screenshots
-![Alt text]([image link](https://github.com/bojan1995/ghprofileviewer/assets/37152424/920bf1fb-e550-4a33-8dd6-994abd77bcc6)](https://i.ibb.co/28n7d24/Screenshot-5.png))
+![Screenshot_5](https://github.com/bojan1995/ghprofileviewer/assets/37152424/90dc6d59-cd99-4fd6-b68d-e7626cda3791)
+![Screenshot_3](https://github.com/bojan1995/ghprofileviewer/assets/37152424/f8cac44c-e8cc-441f-86f5-400b69785b0e)
+![Screenshot_4](https://github.com/bojan1995/ghprofileviewer/assets/37152424/b492d930-4b95-4306-8ca3-adb8b0f85a74)
+
+
 
 ## Technologies
 
