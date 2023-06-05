@@ -29,9 +29,9 @@ To run this application, you need to have Node.js and npm (Node Package Manager)
 
 3. Install the required packages using npm:
 
-  npm install axios
-  npm install react-icons@^4.3.1
-  npm install react-loader-spinner
+  npm install axios  |
+   npm install react-icons@^4.3.1 |
+   npm install react-loader-spinner
 
 
 ### Start the Application
